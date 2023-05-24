@@ -1,0 +1,8 @@
+cryptochaos==1.0.0
+pip==22.3.1
+prettytable==3.7.0
+pytz==2023.3
+setuptools==65.5.1
+today==0.2
+wcwidth==0.2.6
+zope.interface==6.0
